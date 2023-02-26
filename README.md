@@ -2,6 +2,13 @@
 
 A cython random module for python.
 
+# Installzation
+
+1. Install Visual Studio Build Tools
+2. Install Cython with `python.exe -m pip install cython`
+3. Run `python.exe setup.py install`
+4. Type `import cyrandom as cyr` at Python interpreter -> Enjoy **The fastest random**.
+
 # SpeedTests
 
  - Test 1: Cyrandom vs python standard random
