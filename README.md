@@ -33,7 +33,8 @@ Traceback (most recent call last):
   File "_bounded_integers.pyx", line 1334, in numpy.random._bounded_integers._rand_int32
 ValueError: low is out of bounds for int32
 >>> cyrandom.randint(4096)
---- skip ---```
+--- skip ---
+```
 
 # Requires
 
